@@ -1,0 +1,14 @@
+{
+    "info": {
+        "location": "Jacksonville, North Carolina",
+        "social": {
+            "twitter_handle": "vjrubens",
+            "telegram_handle": "xreactx",
+            "github_handle": "xreactx"
+        },
+        "about": {
+            "me": "My name is Vince Rubens",
+            "server": "XREACTX pool runs on multiple secure DigitalOcean nodes."
+        }
+    }
+}
