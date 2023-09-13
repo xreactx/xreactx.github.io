@@ -9,9 +9,9 @@
             "github_handle": "xreactx"
         },
         "about": {
-            "me": "I'm Vince Rubens, owner/operator of Reaction Pool (XRX), message me on telegram or twitter for more information about my pool and where it's going.",
+            "me": "I'm Vince Rubens, owner/operator of Reaction Pool (XRX), message me on telegram or X for more information about my pool and where it's going.",
             "server": "Reaction Pool runs on redundant bare metal nodes and is maintained daily.",
-            "verification:" "64d9f252faaf147080"
+            "verification": "64d9f252faaf147080"
         }
     }
 }
